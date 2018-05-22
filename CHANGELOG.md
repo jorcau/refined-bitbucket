@@ -1,3 +1,11 @@
+# Next Version
+
+### Features
+
+*   Insert "Copy filename to clipboard" button in diff header,
+    closes [issue #210](https://github.com/refined-bitbucket/refined-bitbucket/issues/210),
+    [pull request #215](https://github.com/refined-bitbucket/refined-bitbucket/pull/215).
+
 # 3.9.0 (2018-05-20)
 
 ### Features
